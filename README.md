@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hi!
 
-My name is Oleg, I love building web applications.
+My name is Oleg, I love building full-stack web applications.
 My favorite technologies to build with are:
 - Golang
 - TypeScript
