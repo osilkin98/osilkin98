@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi!
+
+My name is Oleg, I love building web applications.
+My favorite technologies to build with are:
+- Golang
+- TypeScript
+- React/React-native
+- Solid.js
+- And many others
+
